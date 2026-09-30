@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# Upstream Metamath databases. Not ours, and large. Fetch them yourself.
+*.mm
+# Vendored metamath-exe C sources. GPL, not ours. Do not commit.
+*.c
